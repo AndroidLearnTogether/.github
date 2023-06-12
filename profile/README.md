@@ -2,7 +2,7 @@
 
 ###### 다양한 개발 분야를 넘나드는.
 
-<img src="./logo.png" width="50%">
+<img src="https://ibb.co/Bsx4n20" width="50%">
 
 
 ### 다양한 경험을 할 수 있는 동아리
