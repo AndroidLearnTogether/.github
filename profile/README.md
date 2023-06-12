@@ -2,7 +2,8 @@
 
 ###### 다양한 개발 분야를 넘나드는.
 
-<img src="https://i.postimg.cc/nVSCPhy3/ALT-1.png" width="50%">
+<!-- <img src="https://i.postimg.cc/nVSCPhy3/ALT-1.png" width="50%"> -->
+[![ALT-1.png](https://i.postimg.cc/nVSCPhy3/ALT-1.png)](https://postimg.cc/146mgs5F)
 
 
 ### 다양한 경험을 할 수 있는 동아리
